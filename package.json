@@ -1,0 +1,22 @@
+{
+  "name": "cores2016",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haaalieee/cores.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haaalieee/cores/issues"
+  },
+  "homepage": "https://github.com/haaalieee/cores#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
